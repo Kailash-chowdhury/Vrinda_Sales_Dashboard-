@@ -7,7 +7,7 @@ The dashboard offers a clear breakdown of performance across various product cat
 ## Monthly Trends:
 Data is organized to showcase trends over multiple months, enabling a better understanding of how the store's performance has evolved. It provides a month-by-month comparison to spot growth patterns and seasonal variations.
 
-##Gender Analyis:
+## Gender Analyis:
 Gender wise pie chart has been created to know the trend of male and women customers.
 
 ## Age group vs gender analysis:
